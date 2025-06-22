@@ -1,5 +1,7 @@
 # 快速使用 github action 完成 ci/cd
 
+[进入仓库](https://github.com/Wsgamer7/github-docker-deploy)
+
 ### 1. 创建一个 github 仓库然后加入
 
 ![alt text](image.png)
